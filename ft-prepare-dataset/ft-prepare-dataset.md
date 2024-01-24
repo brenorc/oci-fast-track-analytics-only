@@ -143,7 +143,7 @@ Agora realizaremos mais algumas adequações que simplificarão a maneira como v
 ![Preparação de Dados - Agrupar](./images/agrupar.png)
 
 6. Crie duas categorias:
-  - Embalagens Grandes: terá dentro de si os valores Caixa Grande, Caixa Jumbo e Valor Jumbo;
+  - Embalagens Grandes: terá dentro de si os valores Caixa Grande, Caixa Jumbo e Tambor Jumbo;
   - Embalagens Pequenas: terá dentro de si os valores Caixa Média, Caixa Pequena, Pacote Pequeno e Saco de Embrulho.
   Após criados os grupos, certifique-se que você deu o nome **Tipos de Embalagem** para a nova coluna que será criada e clique em **Adicionar Etapa**.
 
@@ -194,4 +194,4 @@ Nesta sessão você aprendeu a preparar um Conjunto de Dados no Oracle Analytics
 ## Autoria
 
 - **Autores** - Thais Henrique, Isabela Alvarez, Breno Comin, Isabelle Dias e Guilherme Galhardo
-- **Último Update Por/Date** - Breno Comin, Mar/2023
+- **Último Update Por/Date** - Breno Comin, Jan/2024
