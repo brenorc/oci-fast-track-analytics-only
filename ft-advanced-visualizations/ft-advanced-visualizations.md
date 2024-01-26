@@ -80,7 +80,7 @@ Use a Formatação Condicional para destacar dados importantes em suas visualiza
 
 ![verificar campos](./images/din-table-18.png)
 
-4. Clique com o botão direito do mouse sobre a tabela dinâmica, selecione "Formatação Condicional" e clique em "Manage Rules".
+4. Clique com o botão direito do mouse sobre a tabela dinâmica, selecione "Formatação Condicional" e clique em "Gerenciar Regras".
 
 ![adicionar Formatação Condicional](./images/cond-form-19.png)
 
@@ -257,4 +257,4 @@ Nesta sessão você aprendeu a utilizar recursos avançados para criação de Da
 ## Autoria
 
 - **Autores** - Thais Henrique, Isabella Alvarez, Breno Comin, Isabelle Dias, Guilherme Galhardo
-- **Último Update Por/Date** - Guilherme Galhardo, Mar/2023
+- **Último Update Por/Date** - Nataly Mafra, Jan/24

@@ -84,9 +84,9 @@ Agora explore as outras telas através da Barra de Navegação.
 
 ## Tarefa 2: Exportar Dashboards
 
-O Oracle Analytics Cloud (OAC) oferece algumas opções para exportação dos nossos Dashboards ou de um gráfico específico. Temos a possibilidade de exportar o arquivo, de imprimir e até [enviar por e-mail*](https://docs.oracle.com/en/cloud/paas/analytics-cloud/acabi/send-email-reports-and-track-deliveries.html#GUID-C5815E71-9348-4C13-BAB6-B5B0C887B3D6).
+O Oracle Analytics Cloud (OAC) oferece algumas opções para exportação dos nossos Dashboards ou de um gráfico específico. Temos a possibilidade de exportar o arquivo, de imprimir e até [enviar por e-mail*](https://docs.oracle.com/en/cloud/paas/analytics-cloud/acabi/send-email-reports-and-track-deliveries.html#GUID-C5815E71-9348-4C13-BAB6-B5B0C887B3D6). Além disso, a plataforma oferece a opção de Copiar Link ou scanear um QR Code.
 
-Para a exportar o arquivo temos diversões formatos disponíveis: PowerPoint(pptx), Acrobat(pdf), Imagem(png) e Pacote(dva) formato nativo do OAC.
+Para a exportar o arquivo temos diversões formatos disponíveis: PowerPoint(pptx), Acrobat(pdf), Imagem(png), Dados (csv) e Pacote(dva) formato nativo do OAC.
 
 Vamos exportar nosso dashboard em PDF para ser compartilhado de forma mais simples com usuários que não tem acesso ao OAC.
 
@@ -154,4 +154,4 @@ Nesta sessão você aprendeu a configurar o modo de apresentação e aprendeu a 
 ## Autoria
 
 - **Autores** - Thais Henrique, Isabella Alvarez, Breno Comin, Isabelle Dias, Guilherme Galhardo
-- **Último Update Por/Date** - Thais Henrique, Mar/2023
+- **Último Update Por/Date** - Nataly Mafra, Jan/2024

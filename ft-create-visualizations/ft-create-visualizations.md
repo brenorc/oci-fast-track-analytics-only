@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste Lab você vai aprender a criar visualizações no Oracle Analytics Cloud.
+Nesse Lab você vai aprender a criar visualizações no Oracle Analytics Cloud.
 
 [Oracle Video Hub video scaled to Large size](videohub:1_6xkzayss:large)
 
@@ -71,11 +71,11 @@ Na região central do menu superior da tela é possível alternar entre páginas
 
 ![Tela Dados.](./images/tela_dados.png)
 
-11. Na região central do menu superior da tela encontre e selecione a opção **Apresentar** para acessar a página que permite adicionar telas a uma apresentação.
+11. Na região central do menu superior da tela encontre e selecione a opção **Apresentar** para acessar a página que permite adicionar telas a uma apresentação. A esquerda, é possível encontrar as opções de **Pasta de Trabalho** e **Tela Ativa**, onde permite fazer configurações para a apresentação. Na região inferior é possível visualizar a ordem das telas para apresentação e, logo abaixo a direita, as opções de **Modo Automático** e **Alternar Painel de Dados**.
 
 ![Tela Apresentar.](./images/tela_apresentar.png)
 
-Outras opções de navegação são encontradas na região inferior da página.
+Outras opções de navegação são encontradas na região inferior da página na aba **Vizualizar**.
 
 12. Na região inferior direita da página encontre as opções de **Diretrizes de Grade**, **Brushing**, **Aplicar Dados Automaticamente**, **Alternar Painel de Dados** e **Alternar Painel de Gramática**.
 
@@ -91,7 +91,7 @@ O Oracle Analytics Cloud também permite a criação de campos calculados dentro
 
 Para explorar essa funcionalidade iremos criar um campo calculado que será utilizado ao longo deste laboratório.
 
-1.  Na barra lateral de opções, clique no simbolo indicado por um **+** e em seguida clique na opção **Adicionar Cálculo...**.
+1.  Na barra lateral de opções, clique no simbolo indicado por um **+** e em seguida clique na opção **Criar Cálculo...**.
 
 ![Menu Campo Calculado](./images/campocalc1.png)
 
@@ -336,4 +336,4 @@ Nesta sessão você aprendeu a criar um dashboard com visualizações básicas d
 ## Autoria
 
 - **Autores** - Guilherme Galhardo, Thais Henrique, Isabella Alvarez, Breno Comin, Isabelle Dias
-- **Último Updated Por/Data** - Guilherme Galhardo, Mar/2023
+- **Último Updated Por/Data** - Nataly Mafra, Jan/2024
