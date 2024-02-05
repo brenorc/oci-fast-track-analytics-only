@@ -26,59 +26,54 @@ Nessa aba você verá todas as tela criadas no modo de edição (na aba Visualiz
 
 ![Aba Apresentar](./images/present-2.png)
 
-Vamos começar a criar nossa apresentação
+Teremos opções diferentes em cada aba, desde definir qual dos gráficos estarão visíveis até o estilo de navegação entre as telas;
 
-1. Selecione a tela Pedidos e arraste para a parte inferior da tela
+1.	No menu a esquerda, é possível encontrar as opções de configuração **Pasta de Trabalho** e **Tela Ativa**. Sua primeira missão é explorar essas opções e se familiarizar com as duas abas.
 
-![Adicionar tela Pedidos](./images/present-3.png)
 
-Você verá o preview da tela escolhida e você verá que agora as opções de configuração de apresentação para essa tela estarão disponíveis.
+![Opções de configuração da apresentação](./images/present-3.png)
 
 ![Opções de configuração da apresentação](./images/present-4.png)
 
-Teremos opções diferentes em cada aba, desde definir qual dos gráficos estarão visíveis até o estilo de navegação entre as telas
+Agora que você está familiarizado com as opções de configuração de apresentação, vamos escolher as telas da nossa apresentação.
 
-2. Explore todas as abas e se familiarize com elas
+2.	Selecione a tela **Detalhe** e clique na seta que ira abrir as opções; Essa é uma tela que **NÃO** iremos apresentar no projeto final, por isso, selecione a opção **Ocultar Tela**. Faça o mesmo para a tela **Explicar CATEGORIA DO PRODUTO**;
 
-![Explore as abas](./images/present-5.png)
+![Ocultar Telas](./images/present-5.png)
 
-Agora que você está familiarizado com as opções de configuração de apresentação vamos adicionar mais telas a nossa apresentação
+Dessa forma, teremos em nosso projeto a apresentação das telas **Lucro**, **Auto Insights**, **Avançado** e **Detalhe**. 
 
-3. Adicione as telas: **Lucro, Auto Insights, Avançado e Detalhe**
+Uma das opções que temos ao editar a apresentação é a possibilidade de escolher quais gráficos presentes em uma tela permanecerão visíveis. Na tela "Lucro" temos um gráfico de Linguagem Natural que não fará sentido na nossa apresentação pois o formato texto não é o mais indicado durante uma apresentação pois o próprio apresentador poderá falar sobre esses detalhes mais descritivos.
 
-![Adicione as telas](./images/present-6.png)
-
-Uma das opções que temos ao editar a apresentação é a possibilidade de escolher quais do gráfico presentes em uma tela permanecerão visíveis. No nossa tela "Lucro" temos um gráfico de Linguagem Natural que não fará sentido na nossa apresentação pois o formato texto não é o mais indicado durante uma apresentação pois o próprio apresentador poderá falar sobre esses detalhes mais descritivos.
-
-Vamos remover o gráfico "Descrição # Pedidos por Subcategoria do Produto"  da nossa apresentação.
+Vamos remover o gráfico **"Descrição # Pedidos por Subcategoria do Produto"** da nossa apresentação.
 
 > **Nota:** Ocultar um gráfico na aba de "Apresentar" não afeta o gráfico original. Você poderá visualizá-lo normalmente na aba "Visualizar".
 
-4. Selecione a tela de "Lucro" e clique na aba de Ajustes. Localize a seção "Visuais", em seguida clique no gráfico que queremos ocultar da nossa apresentação: **"Descrição # Pedidos por Subcategoria do Produto"**.
+3.	Selecione a tela de **"Lucro"** e clique na aba de Tela Ativa. Localize a seção **"Visualizações"**, em seguida clique no gráfico que queremos ocultar da nossa apresentação: **"Descrição # Pedidos por Subcategoria do Produto"**.
 
-![ocultar gráfico na tela 'Lucro'](./images/present-7.png)
+![Selecionar visualização](./images/present-6.png)
 
 Pronto, o gráfico não estará mais visível na nossa apresentação.
 
-Agora vamos alterar a forma como as telas serão exibidas durante nossa apresentação. Podemos alterar o estilo do Navegador de Histórias e escolher entre essas 4 opções: **Guia Inferiores (padrão)**, **Barra de Navegação**, **Tira de Filme** ou **Nenhum**
+Agora vamos alterar a forma como as telas serão exibidas durante nossa apresentação. Podemos alterar o estilo do **Navegador de Histórias** e escolher entre essas 4 opções: **Guia Inferiores (Padrão)**, **Principais Guias**, **Barra de Navegação**, **Tira de Filme** ou **Nenhum**.
 
-5. Na lateral inferior direta vamos acessar a aba "Apresentação". Localize a opção "Navegador de Histórias", clique na opção atual "Guia Inferiores" e troque por "Barra de Navegação".
+4.	Na aba **Pasta de Trabalho**, localize a opção **Navegação na Tela – Estilo**. Clique na opção **Barra de Navegação**.
 
-![Alterar Estilo no 'Navegador de Histórias'](./images/present-8.png)
+![Estilo de Apresentação](./images/present-7.png)
 
 A opção "Barra de Navegação" adiciona pontinhos representando cada uma das suas telas. Ela é bem discreta e muito útil para manter o foco da apresentação na tela atual.
 
 Vamos salvar nossas modificações e visualizar como ficou nossa apresentação.
 
-6. Clique no ícone de disquete no canto superior direito para salvar e após a mensagem de confirmação clique no ícone de **Play**.
+5.	Clique no **ícone de disquete** no canto superior direito para salvar e após a mensagem de confirmação clique no ícone de **Play**.
 
-![Salve as edições e clique em Play](./images/present-9.png)
+![Salve as edições e clique em Play](./images/present-8.png)
 
-Observe:
+Observe que:
 * A Barra de Navegação indicada abaixo na imagem
 * O gráfico de Linguagem Natural permaneceu oculto
 
-![Observe a Barra de navegação](./images/present-10.png)
+![Vizualização Final](./images/present-9.png)
 
 Agora explore as outras telas através da Barra de Navegação.
 
@@ -154,4 +149,4 @@ Nesta sessão você aprendeu a configurar o modo de apresentação e aprendeu a 
 ## Autoria
 
 - **Autores** - Thais Henrique, Isabella Alvarez, Breno Comin, Isabelle Dias, Guilherme Galhardo
-- **Último Update Por/Date** - Nataly Mafra, Jan/2024
+- **Último Update Por/Date** - Nataly Mafra, Fev/2024
