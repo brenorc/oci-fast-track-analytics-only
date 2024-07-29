@@ -336,4 +336,4 @@ Nesta sessão você aprendeu a criar um dashboard com visualizações básicas d
 ## Autoria
 
 - **Autores** - Guilherme Galhardo, Thais Henrique, Isabella Alvarez, Breno Comin, Isabelle Dias
-- **Último Updated Por/Data** - Nataly Mafra, Jan/2024
+- **Último Updated Por/Data** - Breno Comin, Agosto/2024
